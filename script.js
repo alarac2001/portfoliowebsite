@@ -1,6 +1,6 @@
 $(document).ready(function () {
   // import view port library function
-  jQuery.extend(verge);
+  //jQuery.extend(verge);
 
   // smooth scrolling of viewport to target
   $('a[href^="#"]').click(function (event) {
